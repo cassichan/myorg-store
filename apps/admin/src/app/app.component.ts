@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'myorg-root',
-  // templateUrl: './app.component.html',
   template: `<myorg-banner title="Welcome to our admin app."> </myorg-banner>`,
   styleUrls: ['./app.component.css'],
 })
